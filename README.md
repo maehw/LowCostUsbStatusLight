@@ -24,7 +24,7 @@ As three LEDs alone will not work, there needs to be some microcontroller with U
 | Digispark                                                    |
 | ------------------------------------------------------------ |
 | <img src="./doc/digispark.jpg" alt="digispark" style="zoom:33%;" /> |
-| Cost is around                                               |
+| Cost is around 2-5 €                                         |
 
 The board has 6 I/O Pins where 2 are used for software-USB leaving us with 4 I/O pins for connecting the three LEDs. The Digispark comes preprogrammed with a bootloader which supports flashing via USB - no in-system programmer (ISP) required!
 
